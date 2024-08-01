@@ -1,0 +1,136 @@
+{
+  "movies": [
+    {
+      "movie_id": 1,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-03-01",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 2,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-03-08",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 3,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-03-15",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 4,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-03-22",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 5,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-03-29",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 6,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-04-05",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 7,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-04-12",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 8,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-04-19",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 9,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-04-26",
+      "max_attendees": 100
+    },
+    {
+      "movie_id": 10,
+      "movie_name": "Midnight Echo",
+      "description": "A sci-fi thriller about a group of friends who discover a mysterious echo that changes their lives forever.",
+      "movie_date": "2023-05-03",
+      "max_attendees": 100
+    }
+  ],
+  "attendees": [
+    {
+      "attendee_id": 1,
+      "movie_id": 1,
+      "attendee_name": "John Doe",
+      "attendee_email": "johndoe@example.com"
+    },
+    {
+      "attendee_id": 2,
+      "movie_id": 2,
+      "attendee_name": "Jane Smith",
+      "attendee_email": "janesmith@example.com"
+    },
+    {
+      "attendee_id": 3,
+      "movie_id": 3,
+      "attendee_name": "Bob Johnson",
+      "attendee_email": "bobjohnson@example.com"
+    },
+    {
+      "attendee_id": 4,
+      "movie_id": 4,
+      "attendee_name": "Alice Brown",
+      "attendee_email": "alicebrown@example.com"
+    },
+    {
+      "attendee_id": 5,
+      "movie_id": 5,
+      "attendee_name": "Mike Davis",
+      "attendee_email": "mikedavis@example.com"
+    },
+    {
+      "attendee_id": 6,
+      "movie_id": 6,
+      "attendee_name": "Emily Chen",
+      "attendee_email": "emilychen@example.com"
+    },
+    {
+      "attendee_id": 7,
+      "movie_id": 7,
+      "attendee_name": "David Lee",
+      "attendee_email": "davidlee@example.com"
+    },
+    {
+      "attendee_id": 8,
+      "movie_id": 8,
+      "attendee_name": "Sarah Taylor",
+      "attendee_email": "sarahtaylor@example.com"
+    },
+    {
+      "attendee_id": 9,
+      "movie_id": 9,
+      "attendee_name": "Kevin White",
+      "attendee_email": "kevinwhite@example.com"
+    },
+    {
+      "attendee_id": 10,
+      "movie_id": 10,
+      "attendee_name": "Lisa Nguyen",
+      "attendee_email": "lisanguyen@example.com"
+    }
+  ]
+}
